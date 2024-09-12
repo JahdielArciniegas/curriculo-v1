@@ -6,7 +6,7 @@
 		"email": "arciniegasjahdiel@gmail.com",
 		"phone": "+58 4247117431",
 		"url": "https://johndoe.com",
-		"summary": "Soy una persona proactiva, organizada y responsable.Deseo y persigo evolucionar e innovar constantemente para así compartir mi experiencia y conocimientos que conlleven en alcanzar metas y crear un ambiente de trabajo tanto positivo como productivo lo que seguramente conllebara a convertirme en una mejor version de mi.",
+		"summary": "Soy una persona proactiva, organizada y responsable. Deseo y persigo evolucionar e innovar constantemente para así compartir mi experiencia y conocimientos afín de alcanzar metas y crear un ambiente de trabajo tanto positivo como productivo lo que seguramente conllevará a convertirme en una mejor version de mi.",
 		"location": {
 			"address": "San Cristobal",
 			"postalCode": "5001",
@@ -209,8 +209,8 @@
 			"name": "Telephone Agency",
 			"startDate": "2019-01-01",
 			"endDate": "2021-01-01",
-			"description": "Aplicación para agregar y modificar numeros telefonicos",
-			"highlights": ["Pagina de agencia telefonica"],
+			"description": "Aplicación para agregar y modificar numeros telefónicos",
+			"highlights": ["Pagina de agencia telefónica"],
 			"url": "https://telephoneagencybackend.vercel.app/"
 		}
 	]
